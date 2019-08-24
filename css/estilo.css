@@ -1,0 +1,27 @@
+body{
+    background: #ebebeb;
+}
+div#geral{
+    background: #FFF;
+    border: solid 1px #ccc;
+    margin: 0 auto;
+    font:15px "Trebuchet MS", Tahoma,Arial,verdana,Helvetica, sans-serif;
+    width: 600px;
+}
+div#radio{
+    width: 590px;
+    background: #d3d3d3;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+input[type=file]{
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+div.imagem{
+    border: solid 1px #ccc;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+div.imagem img{float: left;}
